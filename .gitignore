@@ -1,0 +1,49 @@
+# Ignore System files
+Thumbs.db
+.DS_Store
+
+# Ignore Eclipse files
+.classpath
+.project
+.settings/
+.factorypath
+
+# Ignore Temp files
+*.reload
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+*.swp
+
+# Ignore Maven files
+target/
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.gz
+
+# Ignore Idea files
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# Gradle files
+build/
+out/
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Ignore JRebel files
+rebel.xml
+
+
+
+
+
+
+
+
